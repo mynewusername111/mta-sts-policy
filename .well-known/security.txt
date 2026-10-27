@@ -2,6 +2,6 @@
 # Generated using Security.txt Generator
 
 Contact: mailto:admin@23pro.ru
-Expires: 2030-03-01T22:37
+Expires: 2030-12-31T23:59:59Z
 Preferred-Languages: en, ru
 Canonical: https://mta-sts.23pro.ru/.well-known/security.txt
